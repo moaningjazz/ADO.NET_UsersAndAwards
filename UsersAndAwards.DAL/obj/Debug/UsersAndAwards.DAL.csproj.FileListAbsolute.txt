@@ -1,0 +1,12 @@
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.DAL.dll
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.DAL.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.DAL.Interfaces.dll
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.Entities.dll
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.ExtensionMethods.dll
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.ExtensionMethods.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.DAL.Interfaces.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\bin\Debug\UsersAndAwards.Entities.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\obj\Debug\UsersAndAwards.DAL.csprojAssemblyReference.cache
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\obj\Debug\UsersAndAwards.DAL.csproj.CopyComplete
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\obj\Debug\UsersAndAwards.DAL.dll
+E:\Project\UsersAndAwards\UsersAndAwards.DAL\obj\Debug\UsersAndAwards.DAL.pdb

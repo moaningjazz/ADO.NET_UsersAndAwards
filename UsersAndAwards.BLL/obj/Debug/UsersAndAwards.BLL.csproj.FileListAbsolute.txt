@@ -1,0 +1,12 @@
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.BLL.dll
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.BLL.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.BLL.Interfaces.dll
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.Entities.dll
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.BLL.Interfaces.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.Entities.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\obj\Debug\UsersAndAwards.BLL.csprojAssemblyReference.cache
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\obj\Debug\UsersAndAwards.BLL.csproj.CopyComplete
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\obj\Debug\UsersAndAwards.BLL.dll
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\obj\Debug\UsersAndAwards.BLL.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.DAL.Interfaces.dll
+E:\Project\UsersAndAwards\UsersAndAwards.BLL\bin\Debug\UsersAndAwards.DAL.Interfaces.pdb

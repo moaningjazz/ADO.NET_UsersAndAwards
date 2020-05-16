@@ -1,0 +1,5 @@
+E:\Project\UsersAndAwards\UsersAndAwards.Entities\bin\Debug\UsersAndAwards.Entities.dll
+E:\Project\UsersAndAwards\UsersAndAwards.Entities\bin\Debug\UsersAndAwards.Entities.pdb
+E:\Project\UsersAndAwards\UsersAndAwards.Entities\obj\Debug\UsersAndAwards.Entities.csprojAssemblyReference.cache
+E:\Project\UsersAndAwards\UsersAndAwards.Entities\obj\Debug\UsersAndAwards.Entities.dll
+E:\Project\UsersAndAwards\UsersAndAwards.Entities\obj\Debug\UsersAndAwards.Entities.pdb

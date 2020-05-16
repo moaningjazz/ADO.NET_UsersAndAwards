@@ -1,0 +1,5 @@
+E:\Project\UsersAndAwards\ExtensionMethods\bin\Debug\UsersAndAwards.ExtensionMethods.dll
+E:\Project\UsersAndAwards\ExtensionMethods\bin\Debug\UsersAndAwards.ExtensionMethods.pdb
+E:\Project\UsersAndAwards\ExtensionMethods\obj\Debug\UsersAndAwards.ExtensionMethods.csprojAssemblyReference.cache
+E:\Project\UsersAndAwards\ExtensionMethods\obj\Debug\UsersAndAwards.ExtensionMethods.dll
+E:\Project\UsersAndAwards\ExtensionMethods\obj\Debug\UsersAndAwards.ExtensionMethods.pdb
